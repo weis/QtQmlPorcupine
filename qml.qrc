@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ui/main.qml</file>
+        <file>ui/ShortTextField.qml</file>
+    </qresource>
+</RCC>
